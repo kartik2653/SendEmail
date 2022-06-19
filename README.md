@@ -2,10 +2,10 @@
 It is a contact us form which take name, mobile no, email, message as input and send it to info@redpositive.in using internal app of device.
 
 Things that can be improved:
-1. Use of **_Redux_** for **_state managment_**
-2. Use of 3rd party API for sending email.
-3. **Conformation message** that email has been send.
-4. **Verification** of each field using **REGEX**.
+1. **Conformation message** that email has been send.
+2. **Verification** of each field using **REGEX**.
+3. Use of **_Redux_** for **_state managment_**
+4. Use of 3rd party API for sending email.
 
 _I am having my final exams. Therefore I just developed a basic model._
 
